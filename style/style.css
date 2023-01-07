@@ -53,3 +53,113 @@ header {
     border-radius: 5px;
     margin-right: 230px;
 }
+/* failur section style  */
+
+.my-failur{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 130px 300px;
+
+}
+
+.failur-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+}
+.person-img{
+    margin: 30px;
+}
+
+.failur-discription{
+    margin-left: 85px;
+
+}
+
+.failur-title-discription{
+    margin-top: 25px;
+}
+
+
+.failur-list{
+    margin-top: 15px;
+}
+
+.fa-solid{
+    color: #16D887;
+    border: 0;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+
+/* my plans section style  */
+.my-plan{
+    margin-top: 130px;
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.plan-container{
+    display: flex;
+    align-items: center;
+    margin-top: 65px;
+    margin-left: 340px;
+    gap: 86px;
+    text-align: center;
+}
+.plan-container div img{
+    margin-bottom: 24px;
+}
+
+.plan-cont-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+.plan-cont-subtitle{
+    color: #737272;
+    font-weight: 500;
+    font-size: 29px;
+}
+
+/* positive mindset section style  */
+
+.positive-mind{
+    margin-top: 130px;
+}
+.positive-banner{
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    height: 300px;
+}
+.positive-banner{
+    color: #FFFFFF;
+    margin: 130px 230px;
+}
+.positive-title{
+    color: #ffffff;
+    margin-left: 64px;
+    padding-top: 64px;
+    font-weight: 700;
+    font-size: 48px;
+}
+.btn{
+    color: #005FAC;
+    background-color: #FFFFFF;
+    padding: 15px 37px;
+    border: 0;
+    border-radius: 5px;
+    margin-left: 64px;
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 20px;
+}
